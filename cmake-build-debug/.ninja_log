@@ -1,0 +1,27 @@
+# ninja log v5
+4	619	7218394880442211	CMakeFiles/C1.dir/main.cpp.obj	7f68e97e4b39280c
+28	680	7217540202620481	CMakeFiles/C1.dir/high/Box.cpp.obj	1c778e68ac287916
+70	710	7217540202927036	CMakeFiles/C1.dir/high/BigBox.cpp.obj	e74ea1a8362105b1
+661	916	7218394883396963	C1.exe	6862b00aeb0be9eb
+2	401	7218400744040707	build.ninja	72cdc6c076c99ef5
+29	557	7217270673282062	CMakeFiles/C1.dir/PtrMus.cpp.obj	c1ba14aac0c93727
+49	688	7217540202702252	CMakeFiles/C1.dir/high/Line.cpp.obj	36c6f65c582c1354
+31	607	7217515784306023	CMakeFiles/C1.dir/base/PtrMus.cpp.obj	a9b78a0c73d8d80
+41	740	7218363808955531	CMakeFiles/C1.dir/high/MixState/Shape.cpp.obj	87e6a84d7084f1bc
+28	604	7218394880312527	CMakeFiles/C1.dir/high/friend/Box.cpp.obj	35f9f930db3ff888
+68	735	7218363808897929	CMakeFiles/C1.dir/high/MixState/Triangle.cpp.obj	73e6059da0cbbebf
+125	755	7218363809105410	CMakeFiles/C1.dir/high/MixState/Rectangle.cpp.obj	a8664d01977e4d71
+95	766	7218363809226509	CMakeFiles/C1.dir/file/FileRead.cpp.obj	6f89c0e356c9935b
+48	592	7218394880179186	CMakeFiles/C1.dir/high/friend/BigBox.cpp.obj	5fc3f9b8af33be26
+69	660	7218394880871973	CMakeFiles/C1.dir/template/Stack.cpp.obj	fa068b9f9fa946b3
+90	653	7218394880804447	CMakeFiles/C1.dir/signal/SingalPro.cpp.obj	4bcb4d3f1ad54f06
+3	533	7218406709835758	CMakeFiles/C1.dir/main.cpp.obj	7f68e97e4b39280c
+25	540	7218406709907820	CMakeFiles/C1.dir/thread/CThread.cpp.obj	f116a332a0b2ca6c
+540	775	7218406712216118	C1.exe	aedc64725be998a0
+4	501	7218406996153596	CMakeFiles/C1.dir/thread/CThread.cpp.obj	f116a332a0b2ca6c
+502	727	7218406998343737	C1.exe	aedc64725be998a0
+4	505	7218407221028795	CMakeFiles/C1.dir/thread/CThread.cpp.obj	f116a332a0b2ca6c
+505	731	7218407223265630	C1.exe	aedc64725be998a0
+4	518	7218410670606821	CMakeFiles/C1.dir/main.cpp.obj	7f68e97e4b39280c
+25	535	7218410670772386	CMakeFiles/C1.dir/thread/CThread.cpp.obj	f116a332a0b2ca6c
+535	764	7218410673028803	C1.exe	aedc64725be998a0
